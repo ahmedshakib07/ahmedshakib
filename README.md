@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p>
 
 <p align="left">
+    <a href="" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
+  </a>
+    <a href="" target="blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"/>
+  </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
     <img src="https://img.shields.io/twitter/follow/ahmedsakib61?logo=twitter&style=for-the-badge" alt="ahmedahkib61"/>
   </a>
   <a href="" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"/>
-  </a>
-  <a href="" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
-  </a>
-  <a href="" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
   </a>
 </p>
 
