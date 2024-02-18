@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [sites.google.com/view/ahmedshakib07](sites.google.com/view/ahmedshakib07)
 
 - ⚡ Fun fact **I like to play chess**
-  
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -120,8 +118,6 @@ Here are some ideas to get you started:
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo"  />
 </div>
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
