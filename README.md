@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"/>
   </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ahmedsakib61?logo=twitter&style=for-the-badge" alt="ahmedahkib61"/>
+    <img src="https://img.shields.io/twitter/follow/ahmedsakib61?logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
 
