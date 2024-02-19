@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmedshakib07/" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
   <a href="https://github.com/ahmedshakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40github-green?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    <img src="https://img.shields.io/badge/follow-%40facebook-%23055C9D?style=for-the-badge&logo=facebook&logoColor=blue" alt="facebook"/>
   </a> 
   <a href="" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
+    <img src="https://img.shields.io/badge/follow-%40instagram-%23FF7F7F?style=for-the-badge&logo=instagram&logoColor=%23FF7F7F" alt="instagram logo"/>
   </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
-    <img src="https://img.shields.io/badge/follow_%40twitter--%23D3D3D3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40twitter-%2368BBE3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
   </a>
 </p>
 
