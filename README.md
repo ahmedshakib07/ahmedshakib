@@ -53,6 +53,7 @@ https://i.gifer.com/7v54.gif
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
 - 🌱 I’m currently learning **CyberSecurity and Laravel**
+
 <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://minland.gov.bd/)
@@ -67,7 +68,7 @@ https://i.gifer.com/7v54.gif
 
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](sites.google.com/view/ahmedshakib07/)
+- 📄 Know about my experiences [Portfolio](https://sites.google.com/view/ahmedshakib07/)
 
 - ⚡ Fun fact **I like to play chess**
 
