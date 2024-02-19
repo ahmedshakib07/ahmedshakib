@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
 
-- 👨‍💻 All of my projects are available at [Protfolio](sites.google.com/view/ahmedshakib07)
+- 👨‍💻 All of my projects are available at [Portfolio](sites.google.com/view/ahmedshakib07)
 <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/ahmedshakib07/)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
 
-- 📄 Know about my experiences [P](sites.google.com/view/ahmedshakib07)
+- 📄 Know about my experiences [Portfolio](sites.google.com/view/ahmedshakib07)
 
 - ⚡ Fun fact **I like to play chess**
 
