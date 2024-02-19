@@ -46,19 +46,19 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/follow-%40twitter-%2368BBE3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
   </a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
-<br>
+<!-- <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif"> -->
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
 - 🌱 I’m currently learning **CyberSecurity and Laravel**
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://minland.gov.bd/)
 
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](sites.google.com/view/ahmedshakib07)
-<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
+
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/ahmedshakib07/)
 
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
