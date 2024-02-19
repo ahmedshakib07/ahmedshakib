@@ -46,10 +46,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/follow-%40twitter-%2368BBE3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
   </a>
 </p>
-
-<br>
 <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
-
+<br>
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
