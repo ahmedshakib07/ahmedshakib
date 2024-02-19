@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
   <a href="https://github.com/ahmedshakib" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40github-green?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/follow-%40github-%23D3D3D3?style=for-the-badge&logo=github&logoColor=%23D3D3D3" alt="github"/>
   </a>
   <a href="" target="blank">
     <img src="https://img.shields.io/badge/follow-%40facebook-%23055C9D?style=for-the-badge&logo=facebook&logoColor=blue" alt="facebook"/>
