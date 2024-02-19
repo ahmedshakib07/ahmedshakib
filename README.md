@@ -21,7 +21,7 @@ Here are some ideas to get you started:
                                                                               --------------------------
 
 -->
-![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*qSIVN9fWM_DrD_sOhFlJQA.gif)
+![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif)
 
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qSIVN9fWM_DrD_sOhFlJQA.gif">
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
