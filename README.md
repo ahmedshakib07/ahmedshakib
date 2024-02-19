@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif)
 -->
-![MasterHead](https://i.gifer.com/7jiL.gif)
+![MasterHead](https://i.gifer.com/McLC.gif)
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
