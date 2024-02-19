@@ -21,8 +21,9 @@ Here are some ideas to get you started:
                                                                               --------------------------
 
 ![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---v0.3.gif)
+https://www.thesslstore.nl/content/images/cw-img-ddos-attach.gif
 -->
-![MasterHead](https://i.gifer.com/McLC.gif)
+![MasterHead](https://d.newsweek.com/en/full/352883/output-lsl2i4.gif?w=1200&f=7560e190845511a06b1ccf9b6ca2b158)
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
