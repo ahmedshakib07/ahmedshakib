@@ -30,17 +30,17 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/ahmedshakib07/" target="blank">
+  <a href="https://www.linkedin.com/in/ahmedshakib07/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
-    <a href="" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
+  <a href="https://github.com/ahmedshakib" target="blank">
+    <img src="https://img.shields.io/badge/follow-%40github-green?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="" target="blank">
     <img src="https://img.shields.io/badge/follow-%40facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-  </a>  
-  <a href="https://github.com/ahmedshakib" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40github-green?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a> 
+  <a href="" target="blank">
+    <img src="https://img.shields.io/badge/follow-%40instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
   </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
     <img src="https://img.shields.io/badge/follow_%40twitter--%23D3D3D3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
