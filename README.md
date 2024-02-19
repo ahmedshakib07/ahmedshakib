@@ -34,17 +34,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/follow%40-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=light-blue" alt="linkedin logo"/>
   </a>
     <a href="" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40instragram-red?style=for-the-badge&logo=instragram&logoColor=red" alt="instagram logo"/>
+    <img src="https://img.shields.io/badge/follow-%40instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
   </a>
   <a href="" target="blank">
-    <img src="https://img.shields.io/badge/follow-%40facebook-blue?style=for-the-badge&logo=facebook&logoColor=white
-" alt="facebook"/>
+    <img src="https://img.shields.io/badge/follow-%40facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>  
   <a href="" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="facebook"/>
+    <img src="https://img.shields.io/badge/follow-%40github-green?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ahmedsakib61?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/ahmedsakib61?logo=twitter&style=for-the-badge" alt="twitter"/>
   </a>
 <!--   <a href="https://circleci.com/gh/badges/daily-tests">
     <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"alt="service-test status">
