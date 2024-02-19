@@ -21,7 +21,7 @@ Here are some ideas to get you started:
                                                                               --------------------------
 
 -->
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:828/format:webp/1*qSIVN9fWM_DrD_sOhFlJQA.gif)
 
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
