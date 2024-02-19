@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ahmedshakib07/" target="blank">
-    <img src="https://img.shields.io/badge/follow%40-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=light-blue" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/follow-%40linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
   </a>
     <a href="" target="blank">
     <img src="https://img.shields.io/badge/follow-%40instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"/>
