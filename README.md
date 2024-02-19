@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qSIVN9fWM_DrD_sOhFlJQA.gif">
+<img align="right" alt="Coding" width="400" src="https://stockpulse.ai/wp-content/uploads/2022/03/Cyber-attack-3.gif">
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
