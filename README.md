@@ -67,7 +67,7 @@ https://i.gifer.com/7v54.gif
 
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](sites.google.com/view/ahmedshakib07)
+- 📄 Know about my experiences [Portfolio](sites.google.com/view/ahmedshakib07/)
 
 - ⚡ Fun fact **I like to play chess**
 
