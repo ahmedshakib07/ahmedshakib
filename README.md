@@ -59,7 +59,7 @@ https://i.gifer.com/7v54.gif
 
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](sites.google.com/view/ahmedshakib07)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmedshakib/)
 
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/ahmedshakib07/)
 
