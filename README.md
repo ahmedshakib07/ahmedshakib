@@ -48,7 +48,8 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://stockpulse.ai/wp-content/uploads/2022/03/Cyber-attack-3.gif">
+<img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif">
+
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
 
 - 👨‍💻 All of my projects are available at [sites.google.com/view/ahmedshakib07](sites.google.com/view/ahmedshakib07)
-
+<img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif">
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahmedshakib07/](https://www.linkedin.com/in/ahmedshakib07/)
 
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
@@ -69,6 +70,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [sites.google.com/view/ahmedshakib07](sites.google.com/view/ahmedshakib07)
 
 - ⚡ Fun fact **I like to play chess**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
