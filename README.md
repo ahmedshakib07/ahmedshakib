@@ -29,7 +29,7 @@ https://i.gifer.com/7v54.gif
 <h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshakib&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshakib" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p>
+<p align="center"> <a href="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmedshakib07/" target="blank">
